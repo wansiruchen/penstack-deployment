@@ -3,7 +3,7 @@
 # OpenStack Train 一键部署脚本
 # 适用系统: CentOS 7
 # 部署版本: OpenStack Train
-# 作者: NingchenNingchen
+# 作者: Ningchen
 # 说明: 此脚本用于一键部署完整的OpenStack私有云平台
 #       支持控制节点和计算节点自动识别
 #######################################################################
